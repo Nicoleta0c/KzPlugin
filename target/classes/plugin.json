@@ -1,0 +1,16 @@
+{
+	"name": "Kz",
+	"author": "Zulo",
+	"version": "1.0.0",
+	"minVersion": "1.128.3",
+	"supportedVersion": "1.128.3",
+	"basePackage": "com.kz",
+	"features": [
+		
+		"com.kz.tasks.BLBehe",
+		"com.kz.behaviours.defense.DefenseMode"
+		
+		
+	]
+	
+}
